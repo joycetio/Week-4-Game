@@ -33,6 +33,6 @@
 *Last, I set up two functions to determine what happens whether the player wins or loses. 
 
 ###Live Link: 
-
+https://joycetio.github.io/Week-4-Game/
 
 
