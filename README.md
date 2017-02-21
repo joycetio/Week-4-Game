@@ -20,9 +20,9 @@
     * Each crystal should have a random hidden value between 1-12. 
 
 ### Technologies Used: 
-    * Bootstrap 
-    * Javascript / jQuery 
-    * CSS 
+* Bootstrap 
+* Javascript / jQuery 
+* CSS 
 
 ### Code Explanation: 
 *I used Bootstrap to design my HTML, and used CSS to override Bootstrap and add a background. 
