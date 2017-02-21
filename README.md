@@ -25,13 +25,13 @@
 * CSS 
 
 ### Code Explanation: 
-*I used Bootstrap to design my HTML, and used CSS to override Bootstrap and add a background. 
-*For my game.js file, 
-    *I first set up my randomNumber using Math.random to select a number between 19-120, and then used the append function to show the number in the HTML file. 
-    *Next, I set random numbers between 1-12 to the jewels using math.random as well. 
-    *After declaring my variables, I created a function called startGame. Inside, I set up the click function the jewels and included win/lose conditionals for each one. 
-    *I set up another function called playAgain to reset the game. 
-    *Last, I set up two functions to determine what happens whether the player wins or loses. 
+* I used Bootstrap to design my HTML, and used CSS to override Bootstrap and add a background. 
+* For my game.js file, 
+    * I first set up my randomNumber using Math.random to select a number between 19-120, and then used the append function to show the number in the HTML file. 
+    * Next, I set random numbers between 1-12 to the jewels using math.random as well. 
+    * After declaring my variables, I created a function called startGame. Inside, I set up the click function the jewels and included win/lose conditionals for each one. 
+    * I set up another function called playAgain to reset the game. 
+    * Last, I set up two functions to determine what happens whether the player wins or loses. 
 
 ###Live Link: 
 https://joycetio.github.io/Week-4-Game/
