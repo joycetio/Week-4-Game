@@ -1,8 +1,8 @@
 # HW-Week-4-Game
 
-##Crystals Collector Game 
+## Crystals Collector Game 
 
-###Requirements:
+### Requirements:
 1. In this game, the player will have to guess the answer using numbers instead of letters. 
 2. Here's how the app works: 
     * There will be four crystals displayed as buttons on the page. 
@@ -33,7 +33,7 @@
     * I set up another function called playAgain to reset the game. 
     * Last, I set up two functions to determine what happens whether the player wins or loses. 
 
-###Live Link: 
+### Live Link: 
 https://joycetio.github.io/Week-4-Game/
 
 
